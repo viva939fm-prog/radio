@@ -1,0 +1,120 @@
+{
+  "stream_url": "https://stream.zeno.fm/dmxa70ebsm0uv",
+  "app_name": "Rádio Viva",
+  "logo_url": "https://i.postimg.cc/zvN1vmVH/sdd.png",
+  "background_url": "https://i.postimg.cc/wjMY7QT7/64f1b5b09fea46b2f446778b32cc24e2.jpg",
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.05,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
+      "click_url": "  "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
+      "click_url": "  "
+    },
+    {
+      "title": "PATROCINADOR 5",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
+      "click_url": "  "
+    },
+    {
+      "title": "PATROCINADOR 6",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
+      "click_url": "  "
+    },
+    {
+      "title": "PATROCINADOR 7",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
+      "click_url": "  "
+    },
+    {
+      "title": "PATROCINADOR 8",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
+      "click_url": "  "
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
+      "click_url": ""
+    }
+  ],
+
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=5521983745744"
+    },
+    {
+      "icon": "facebook",
+      "url": "  "
+    },
+    {
+      "icon": "tiktok",
+      "url": "  "
+    },
+    {
+      "icon": "instagram",
+      "url": "  "
+    },
+    {
+      "icon": "website",
+      "url": "  "
+    }
+  ]
+}
