@@ -5,7 +5,7 @@
   "background_url": "https://i.postimg.cc/wjMY7QT7/64f1b5b09fea46b2f446778b32cc24e2.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
-  "live_badge_text": " Ao Vivo",
+  "live_badge_text": " false",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
   "autoplay": true,
