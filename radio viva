@@ -20,6 +20,37 @@
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
 
+```json
+{
+  "stream_url": "https://media-ssl.musicradio.com/Capital",
+  "app_name": "Play FM",
+  "logo_url": "https://i.postimg.cc/yxqQKn20/08587957-cead-4bc1-b730-bf0f2dc5670f.png",
+  "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
+
+  "bg_tint_color": "#000e38",
+  "bg_tint_opacity": 0.78,
+
+  "live_badge_text": ".",
+  "live_badge_color": "#00000000",
+  "enable_live_badge": false,
+
+  "accent_color": "#000d13",
+
+  "autoplay": true,
+
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+
+ 
   "banners": [
     {
       "title": "PATROCINADOR 1",
@@ -27,7 +58,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/9FD2XF2z/padaria-imperio.jpg",
-      "click_url": "  "
+      "click_url": ""
     },
     {
       "title": "PATROCINADOR 2",
@@ -35,7 +66,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/Z51psRbR/vffg-(1).png",
-      "click_url": "https://api.whatsapp.com/send?phone=5521973453656 "
+      "click_url": "https://api.whatsapp.com/send?phone=5521973453656"
     },
     {
       "title": "PATROCINADOR 3",
@@ -43,7 +74,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/QMJCgxHj/vffgdd-(1).png",
-      "click_url": " https://api.whatsapp.com/send?phone=5521978914201 "
+      "click_url": "https://api.whatsapp.com/send?phone=5521978914201"
     },
     {
       "title": "PATROCINADOR 4",
@@ -51,7 +82,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
-      "click_url": "  "
+      "click_url": ""
     },
     {
       "title": "PATROCINADOR 5",
@@ -59,7 +90,7 @@
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
-      "click_url": "  "
+      "click_url": ""
     },
     {
       "title": "PATROCINADOR 6",
@@ -67,7 +98,7 @@
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
-      "click_url": "  "
+      "click_url": ""
     },
     {
       "title": "PATROCINADOR 7",
@@ -75,7 +106,7 @@
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
-      "click_url": "  "
+      "click_url": ""
     },
     {
       "title": "PATROCINADOR 8",
@@ -83,7 +114,7 @@
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.postimg.cc/FRWBt23D/Gemini-Generated-Image-fvzr2lfvzr2lfvzr.jpg",
-      "click_url": "  "
+      "click_url": ""
     },
     {
       "title": "",
@@ -102,19 +133,20 @@
     },
     {
       "icon": "facebook",
-      "url": "  "
+      "url": ""
     },
     {
       "icon": "tiktok",
-      "url": "  "
+      "url": ""
     },
     {
       "icon": "instagram",
-      "url": "  "
+      "url": ""
     },
     {
       "icon": "website",
-      "url": "  "
+      "url": "https://"
     }
   ]
 }
+
