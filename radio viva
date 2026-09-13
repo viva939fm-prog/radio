@@ -20,37 +20,6 @@
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
 
-```json
-{
-  "stream_url": "https://media-ssl.musicradio.com/Capital",
-  "app_name": "Play FM",
-  "logo_url": "https://i.postimg.cc/yxqQKn20/08587957-cead-4bc1-b730-bf0f2dc5670f.png",
-  "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
-
-  "bg_tint_color": "#000e38",
-  "bg_tint_opacity": 0.78,
-
-  "live_badge_text": ".",
-  "live_badge_color": "#00000000",
-  "enable_live_badge": false,
-
-  "accent_color": "#000d13",
-
-  "autoplay": true,
-
-  "enable_banners": true,
-  "enable_social": true,
-  "enable_recording": true,
-  "enable_timer": true,
-  "enable_volume_bar": true,
-  "enable_metadata": true,
-  "enable_album_art": false,
-  "enable_album_view": true,
-
-  "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
-
- 
   "banners": [
     {
       "title": "PATROCINADOR 1",
@@ -149,4 +118,3 @@
     }
   ]
 }
-
